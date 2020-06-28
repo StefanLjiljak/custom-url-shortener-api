@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Stef:fuckyou666@geojsonapi-qeiok.mongodb.net/custom-url-shortener-api?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
